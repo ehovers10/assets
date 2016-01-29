@@ -1,0 +1,46 @@
+.eh-icon {
+  padding: 15px;
+  margin: 7px;
+  border-radius: 15px!important;
+}
+
+.eh-corners .ui-bar {
+  -webkit-border-top-left-radius: inherit;
+  border-top-left-radius: inherit;
+  -webkit-border-top-right-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.eh-corners .ui-body {
+  border-top-width: 0;
+  -webkit-border-bottom-left-radius: inherit;
+  border-bottom-left-radius: inherit;
+  -webkit-border-bottom-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.centering {
+  margin: 0 auto;
+}
+
+.ui-body {
+  margin-bottom: 1em;
+}
+
+.foot {
+  padding: 3px 0;
+}
+
+.tablist-left {
+  width: 20%;
+  display: inline-block;
+}
+.tablist-content {
+  width: 70%;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5%;
+}
+
+.hidden {
+  display: none;
+}

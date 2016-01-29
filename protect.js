@@ -11,7 +11,7 @@ $(window).load( function() {
   }
   else {
     
-    location.href='/nope/'
+    location.href='/metrics/nope/'
 
   } 
 
